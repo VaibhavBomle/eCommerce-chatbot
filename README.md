@@ -1,5 +1,4 @@
 # eCommerce-chatbot
-# eCommerce Chatbot
 
 An AI-driven e-commerce chatbot that offers personalized product recommendations and responds to customer queries based on product reviews and titles. Built using advanced embeddings and language models, this chatbot provides an engaging and helpful shopping assistant experience.
 
