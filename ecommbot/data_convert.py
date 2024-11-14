@@ -22,7 +22,5 @@ def dataconverter():
     for entry in product_list:
         metadata = {"product_name": entry['product_name']}
         doc = Document(page_content=entry['review'],metadata=metadata)
-        docs.append(obj)
-        
+        docs.append(doc)
     return docs
-
