@@ -5,5 +5,8 @@ datasets
 pypdf
 python-dotenv
 flask
+google-generativeai
+langchain-community
+langchain-google-genai
 
 -e .
